@@ -1,3 +1,4 @@
+![logo](https://github.com/Mariaiftikhar1999/Mariaiftikhar1999/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Maria Iftikhar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
